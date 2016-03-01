@@ -1,5 +1,5 @@
 ---
-- hosts: linode
+- hosts: uern
   remote_user: root
   vars:
     NORMAL_USER_NAME: 'xico'
